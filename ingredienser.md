@@ -1,0 +1,6 @@
+avocado
+tomater
+løk
+koriander
+hvitløk
+lime juice
