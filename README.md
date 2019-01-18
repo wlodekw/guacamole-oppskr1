@@ -1,6 +1,6 @@
 # guacamole-oppskr1
-##inledning
-###overskrift
+## inledning
+### overskrift
 kurs exmpl. oppskrift
 
 nytt avsnitt
