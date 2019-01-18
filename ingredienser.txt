@@ -4,3 +4,5 @@ løk
 koriander
 hvitløk
 lime juice
+salt
+pepper
